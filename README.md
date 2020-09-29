@@ -1,7 +1,6 @@
 To install:
 ### npm install
 
-In the project directory, you can run:
-
+To run:
 ### `npm start`
 
