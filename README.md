@@ -1,5 +1,5 @@
-### ''To install:
-npm install
+To install:
+### npm install
 
 In the project directory, you can run:
 
